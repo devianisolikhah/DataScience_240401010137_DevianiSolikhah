@@ -1,6 +1,4 @@
-# Repository Data Science 2026
-
-## Profil Mahasiswa
+# Repository Data Science
 
 **Nama:** Deviani Solikhah
 **NIM:** 240401010137
