@@ -2,10 +2,10 @@
 
 ## Identitas Mahasiswa
 
-**Nama** : Deviani Solikhah
-**NIM** : 240401010137
-**Program Studi** : S1 PJJ Informatika
-**Kelas** : IF403
+**Nama** : Deviani Solikhah  
+**NIM** : 240401010137  
+**Program Studi** : S1 PJJ Informatika  
+**Kelas** : IF403  
 
 ---
 
